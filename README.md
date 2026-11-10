@@ -18,6 +18,6 @@ I'm passionate about software development, artificial intelligence, and using ma
 - Mathly-AI - AI powered mathematics study platform
 - Parkpal - Your theme park tourguide
 
-  #Education
-  - Bachelor of Science in Computer Science
-  - Bachelor of Arts in Applied Mathematics
+#Education
+- Bachelor of Science in Computer Science
+- Bachelor of Arts in Applied Mathematics
